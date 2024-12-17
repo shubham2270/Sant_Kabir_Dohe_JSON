@@ -179,3 +179,239 @@ const viswash_hin_16_26 = [
     ang: "Viswash ko ang",
   },
 ];
+
+const viswash_hin_27_35 = [
+  {
+    lang: "hin",
+    serial: 27,
+    doha: "राम किया सोई हुआ, राम करै सो होय ।\nराम करै सो होयगा, काहा कल्पौ कोय । २७ ॥",
+    meaning:
+      "राम का किया हुआ ही भूतकाल में हुआ। राम का किया हुआ ही वर्तमान में हो रहा है। जो राम करेगा, वही भविष्य में होगा फिर त क्यों रोता है?",
+    ang: "Viswash ko ang",
+  },
+  {
+    lang: "hin",
+    serial: 28,
+    doha: "राम नाम की लौ लगी, जग से दूर रहाय ।\nमोहि भरोसा राम का, बंदा नरक न जाय । २८ ॥",
+    meaning:
+      "जिसे राम नाम की लगन लग जाती है, वह संसार की अभिलाषाओं से दूर रहता है और उसे राम का भरोसा रहता है कि भक्त नरक में नहीं जाता।",
+    ang: "Viswash ko ang",
+  },
+  {
+    lang: "hin",
+    serial: 29,
+    doha: "राम नाम से मन मिला, जम से परा दुराय\nमोहि भरोसा इष्ट का, बंदा नरक न जाय । २९ ॥",
+    meaning:
+      "राम नाम में मन के संलग्न होने के कारण यमराजरूपी दोष-दुर्गुणों, अज्ञान-अविद्या से दूरी पड़ गई, फलतः इष्ट के प्रति मेरा भरोसा दृढ़ हो गया कि भक्त कदापि नरक में नहीं जाता।",
+    ang: "Viswash ko ang",
+  },
+  {
+    lang: "hin",
+    serial: 30,
+    doha: "विस्वासी हवै हरि भजै, लोहा कंचन होय ।\nराम भजै अनुराग से, हरष सोक नहिं दोय । ३० ॥",
+    meaning:
+      "जो विश्वासी होकर प्रभुभजन करता है, वह लोहातुल्य तामस अज्ञानी जीव स्वर्णतुल्य सात्विक, दीप्त व ज्ञानी हो जाता है और रामभजन में अनुराग होने से उसे सुख-दुख नहीं व्यापते।",
+    ang: "Viswash ko ang",
+  },
+  {
+    lang: "hin",
+    serial: 31,
+    doha: "सबते भली मधुकरी, भांति-भांति का नाज |\nदावा काहू का नहीं, बिनु दावा बड़ राज | ३१ ॥",
+    meaning:
+      "सन्तों के लिए सबसे उत्तम भिक्षाटन करना है। इसमें विभिन्न प्रकार के अनाज प्राप्त हो जाते हैं। किसी का दावा भी नहीं रहता है और बिना दावा के ही विशाल राजसुख मिल जाता है।",
+    ang: "Viswash ko ang",
+  },
+  {
+    lang: "hin",
+    serial: 32,
+    doha: "सांई इतना दीजिये, जानें कुटुंब समाय |\nमैं भी भूखा न रहूँ, साधु न भूखा जाय | ३२ ॥",
+    meaning:
+      "हे प्रभु! मुझे इतनी सम्पदा दीजिए, जिससे परिवार का अच्छी तरह भरण-पोषण हो जाए, मैं भी भूखा न रहूं और घर आए अतिथि भी भूखे न जाएं।",
+    ang: "Viswash ko ang",
+  },
+  {
+    lang: "hin",
+    serial: 33,
+    doha: "सांई दीया सहज में, सोई रिजक हलाल |\nहैवां सबै हराम है, तजि संसै जिव साल | ३३ ॥",
+    meaning:
+      "परमात्मा ने सहज ही जो जीविका दी, वही पवित्र है और जिसे अन्याय से बलपूर्वक प्राप्त किया जाता है, वह सब अपवित्र है। अतः दुख देनेवाले संशय को त्यागकर सुखी होओ।",
+    ang: "Viswash ko ang",
+  },
+  {
+    lang: "hin",
+    serial: 34,
+    doha: "सिरजनहार को चीन्हि ले, खाने को क्या रोय |\nमन मंदिर में पैठि के, तानि पिछोरी सोय । ३४ ॥",
+    meaning:
+      "सृजनहार परमात्मा को पहचान ले। खाने के लिए क्या रोते हो? मन-मंदिर में प्रभु का ध्यान लगाकर सन्तोषरूपी चादर ओढ़कर निश्चिन्त सो जा, क्योंकि भक्तों का योगक्षेम निश्चित ही प्रभु उठाते हैं।",
+    ang: "Viswash ko ang",
+  },
+  {
+    lang: "hin",
+    serial: 35,
+    doha: "राखनहारा राम है, जाय जंगल में बैठ |\nहरि कोपै नहिं ऊबरै सात पताले पैठ | ३५ ॥",
+    meaning:
+      "यदि राम रक्षा करना चाहता है तो जंगल में जाकर बैठने पर भी रक्षा करेगा और वह किसी कारणवश कुपित है तो सात पाताल के नीचे छुपकर बैठने पर भी कोई नहीं बचा सकता।",
+    ang: "Viswash ko ang",
+  },
+];
+
+const viswash_eng_27_35 = [
+  {
+    lang: "eng",
+    serial: 27,
+    doha: "राम किया सोई हुआ, राम करै सो होय ।\nराम करै सो होयगा, काहा कल्पौ कोय । २७ ॥",
+    meaning:
+      "Whatever has happened was Ram's doing, whatever is happening now is by His will, and whatever will happen will be by His command. Why worry, then?",
+    ang: "Viswash ko ang",
+  },
+  {
+    lang: "eng",
+    serial: 28,
+    doha: "राम नाम की लौ लगी, जग से दूर रहाय ।\nमोहि भरोसा राम का, बंदा नरक न जाय । २८ ॥",
+    meaning:
+      "One who is immersed in Ram's name remains detached from worldly desires and has full trust in Ram, knowing that a devotee never falls into hell.",
+    ang: "Viswash ko ang",
+  },
+  {
+    lang: "eng",
+    serial: 29,
+    doha: "राम नाम से मन मिला, जम से परा दुराय\nमोहि भरोसा इष्ट का, बंदा नरक न जाय । २९ ॥",
+    meaning:
+      "By attaching the mind to Ram's name, one distances themselves from the faults and ignorance symbolized by Yama (the god of death). Thus, my faith in God assures me that a devotee never goes to hell.",
+    ang: "Viswash ko ang",
+  },
+  {
+    lang: "eng",
+    serial: 30,
+    doha: "विस्वासी हवै हरि भजै, लोहा कंचन होय ।\nराम भजै अनुराग से, हरष सोक नहिं दोय । ३० ॥",
+    meaning:
+      "One who worships God with faith transforms from ignorant iron-like existence to golden, wise, and enlightened. With love for Ram's devotion, they transcend both joy and sorrow.",
+    ang: "Viswash ko ang",
+  },
+  {
+    lang: "eng",
+    serial: 31,
+    doha: "सबते भली मधुकरी, भांति-भांति का नाज |\nदावा काहू का नहीं, बिनु दावा बड़ राज | ३१ ॥",
+    meaning:
+      "For saints, the best life is one of alms—receiving various types of food without any claim or attachment, yet living like kings without ownership.",
+    ang: "Viswash ko ang",
+  },
+  {
+    lang: "eng",
+    serial: 32,
+    doha: "सांई इतना दीजिये, जानें कुटुंब समाय |\nमैं भी भूखा न रहूँ, साधु न भूखा जाय | ३२ ॥",
+    meaning:
+      "Oh Lord, grant me just enough so my family is well-provided for, I do not go hungry, and no guest leaves my door unfed.",
+    ang: "Viswash ko ang",
+  },
+  {
+    lang: "eng",
+    serial: 33,
+    doha: "सांई दीया सहज में, सोई रिजक हलाल |\nहैवां सबै हराम है, तजि संसै जिव साल | ३३ ॥",
+    meaning:
+      "The sustenance that God provides naturally is pure. What is gained unjustly is tainted. Cast away worries and live in peace.",
+    ang: "Viswash ko ang",
+  },
+  {
+    lang: "eng",
+    serial: 34,
+    doha: "सिरजनहार को चीन्हि ले, खाने को क्या रोय |\nमन मंदिर में पैठि के, तानि पिछोरी सोय । ३४ ॥",
+    meaning:
+      "Recognize the Creator; why cry over sustenance? Enter the temple of your mind, meditate on God, cover yourself with the blanket of contentment, and rest assured—God takes care of His devotees.",
+    ang: "Viswash ko ang",
+  },
+  {
+    lang: "eng",
+    serial: 35,
+    doha: "राखनहारा राम है, जाय जंगल में बैठ |\nहरि कोपै नहिं ऊबरै सात पताले पैठ | ३५ ॥",
+    meaning:
+      "If Ram wishes to protect, even in a remote jungle, He will. But if He is displeased, no one can be saved, even if they hide deep in the netherworld.",
+    ang: "Viswash ko ang",
+  },
+];
+
+const viswash_hin_36_40 = [
+  {
+    lang: "hin",
+    serial: 36,
+    doha: "हरिजन गाँठि न बांधही, उदर समाना लेय |\nआगे पीछे हरि खड़े, जो मांगै सो देय | ३६ ||",
+    meaning:
+      "परमात्मा का भक्त कल के लिए संग्रह नहीं करता, वह मात्र पेट भरने इतना अन्न लेता है। उसके योगक्षेमकर्ता प्रभु सर्वत्र विद्यमान हैं। जब जिस वस्तु की आवश्यकता पड़ती है, उसे दे देते हैं।",
+    ang: "Viswash ko ang",
+  },
+  {
+    lang: "hin",
+    serial: 37,
+    doha: "अंडा पालै काछुई, बिन थन राखै पोख |\nयौं करता सबको करै, पालै तीनों लोक | ३७ ||",
+    meaning:
+      "कच्छपी बिना स्तन के केवल ध्यान रखकर अपने अण्डों का पोषण कर लेती है, वैसे ही परमात्मा तीनों लोकों के सभी प्राणियों का पालन करते हैं।",
+    ang: "Viswash ko ang",
+  },
+  {
+    lang: "hin",
+    serial: 38,
+    doha: "अब तूं काहे को डरै, सिर पर हरि का हाथ |\nहस्ती चढ़कर डोलिये, कूकर भुसे जु लाख | ३८ ||",
+    meaning:
+      "अब तू क्यों डरता है? तेरे सिर पर प्रभु का हाथ है। चाहे लाखों निन्दकरूपी कुत्ते निन्दा में भौंके, भक्तिरूपी हाथी पर चढ़कर निर्भय विचरण करो।",
+    ang: "Viswash ko ang",
+  },
+  {
+    lang: "hin",
+    serial: 39,
+    doha: "आगे पीछे हरि खड़ा, आप सम्हारे भार |\nजन को दुःखी क्यों करै, समरथ सिरजनहार | ३९ ||",
+    meaning:
+      "भक्तों के आगे-पीछे परमात्मा खड़ा रहता है। वह स्वयं ही भक्तों का भार उठा लेता है। भला सर्वसमर्थ सृजनहार अपने भक्तों को दुखी क्यों करेगा?",
+    ang: "Viswash ko ang",
+  },
+  {
+    lang: "hin",
+    serial: 40,
+    doha: "ऐसा कौन अभागिया, जो विस्वास और |\nराम बिना पग धरन कूँ, कहो कहाँ है ठौर || ४० ||",
+    meaning:
+      "ऐसा कौन अभागा मनुष्य होगा जो राम के अतिरिक्त अन्य पर विश्वास करेगा? कहो तो भला राम के बिना कहीं पैर रखने का भी स्थान है?",
+    ang: "Viswash ko ang",
+  },
+];
+
+const viswash_eng_36_40 = [
+  {
+    lang: "eng",
+    serial: 36,
+    doha: "हरिजन गाँठि न बांधही, उदर समाना लेय |\nआगे पीछे हरि खड़े, जो मांगै सो देय | ३६ ||",
+    meaning:
+      "A true devotee does not hoard for tomorrow, taking only enough to satisfy hunger. God, the caretaker, stands by and provides as needed.",
+    ang: "Viswash ko ang",
+  },
+  {
+    lang: "eng",
+    serial: 37,
+    doha: "अंडा पालै काछुई, बिन थन राखै पोख |\nयौं करता सबको करै, पालै तीनों लोक | ३७ ||",
+    meaning:
+      "Just as the turtle nurtures her eggs with mere focus and no physical nourishment, God sustains all beings across the three worlds through His divine grace.",
+    ang: "Viswash ko ang",
+  },
+  {
+    lang: "eng",
+    serial: 38,
+    doha: "अब तूं काहे को डरै, सिर पर हरि का हाथ |\nहस्ती चढ़कर डोलिये, कूकर भुसे जु लाख | ३८ ||",
+    meaning:
+      "Why fear now? God’s hand is above you. Let the dogs of criticism bark; ride the elephant of devotion with confidence.",
+    ang: "Viswash ko ang",
+  },
+  {
+    lang: "eng",
+    serial: 39,
+    doha: "आगे पीछे हरि खड़ा, आप सम्हारे भार |\nजन को दुःखी क्यों करै, समरथ सिरजनहार | ३९ ||",
+    meaning:
+      "God stands by His devotees, taking their burdens upon Himself. Why would the all-powerful Creator ever allow His devotee to suffer?",
+    ang: "Viswash ko ang",
+  },
+  {
+    lang: "eng",
+    serial: 40,
+    doha: "ऐसा कौन अभागिया, जो विस्वास और |\nराम बिना पग धरन कूँ, कहो कहाँ है ठौर || ४० ||",
+    meaning:
+      "Who is so unfortunate as to trust anyone other than Ram? Without Ram, is there even a place to stand?",
+    ang: "Viswash ko ang",
+  },
+];
